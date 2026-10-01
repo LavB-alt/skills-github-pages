@@ -2,4 +2,4 @@
 title: Interesting Takes
 ---
 
-A space for book reviews and political commentary. 
+A space to house book reviews and political commentary.
